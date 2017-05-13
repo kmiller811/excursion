@@ -1,0 +1,44 @@
+html
+{
+  font-family: Verdana;
+}
+body {
+  background-color: black;
+  text-align: center;
+}
+.discover
+{color: white;
+text-align: center;
+font-family:  Verdana;
+font-size: 50px;
+font-weight: normal;
+}
+
+h1
+{
+color: white;
+font-family:  Verdana;
+font-size: 42px;
+font-weight: 300;
+}
+
+a
+{color: Aquamarine;
+  font-family:  Verdana;
+  font-size: 16px;
+  font-weight: normal;
+}
+p
+  {
+  color: Gray;
+  font-family:  Verdana;
+  font-size: 21px;
+}
+h2
+{
+  color: Gray;
+font-family:  Verdana;
+text-align: right;
+font-size: 16px;
+font-weight: normal;
+}
